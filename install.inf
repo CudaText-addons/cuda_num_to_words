@@ -1,0 +1,18 @@
+[info]
+title=NumToWords
+desc=Converts numbers to words
+type=cudatext-plugin
+subdir=cuda_numtowords
+
+[item1]
+section=commands
+caption=NumToWords\Number to words, new tab
+method=num_new_tab
+[item2]
+section=commands
+caption=NumToWords\Number to words, replace
+method=num_replace
+[item3]
+section=commands
+caption=NumToWords\Select language
+method=langs
