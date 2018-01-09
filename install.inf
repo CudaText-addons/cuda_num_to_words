@@ -3,6 +3,7 @@ title=NumToWords
 desc=Converts numbers to words
 type=cudatext-plugin
 subdir=cuda_numtowords
+homepage=http://github.com/cudatext-addons/cuda_num_to_words
 
 [item1]
 section=commands
