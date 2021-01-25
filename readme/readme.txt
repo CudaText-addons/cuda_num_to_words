@@ -10,5 +10,5 @@ gives commands:
 - read number under caret, replace this number with result
 - select language
 
-author: Alexey (CudaText)
+author: Alexey Torgashin (CudaText)
 license: MIT
